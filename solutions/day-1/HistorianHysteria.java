@@ -8,10 +8,11 @@ public class HistorianHysteria {
 
         int difference, count, similarity;
         difference = count = similarity = 0;
-        String inputFilePath = "solutions/day-1/input.txt";
-        String outputFilePath = "solutions/day-1/output.txt";
+        String inputFilePath = "./input.txt";
+        String outputFilePath = "./output.txt";
         try {
             String input = new String(Files.readAllBytes(Paths.get(inputFilePath)));
+            System.out.println(input);
             String[] numbers = input.split("\\s+");
 
             ArrayList<Integer> list1 = new ArrayList<>();

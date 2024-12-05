@@ -1,0 +1,2 @@
+Total sum of all the products of mul(x,y): 178538786
+Total sum of all the products of mul(x,y) after do(): 102467299
