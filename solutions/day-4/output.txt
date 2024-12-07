@@ -1,0 +1,2 @@
+Count of XMAS Part 1: 2401
+Count of XMAS Part 2: 1822
