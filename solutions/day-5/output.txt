@@ -1,0 +1,2 @@
+The total sum of the middle page numbers of the correct updates is: 4872
+The total sum of the middle page numbers after correctly re-ordering the wrong updates is: 5564
